@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:58:14	208/-1	---M--	404	error ('Not%20Found')	text/html	date:Mon,%2020%20Aug%202018%2008:58:18%20GMT	http://andriban.pw/robots.txt		(from )
+11:58:15	26094/-1	---M--	200	added ('OK')	text/html	date:Mon,%2020%20Aug%202018%2008:58:19%20GMT	http://andriban.pw/	C:/Users/%d0%94%d0%b5%d0%bd%d0%b8%d1%81/Desktop/Web/Borisenkov/andriban.pw/index.html	(from )
+11:58:15	46930/46930	---M--	200	added ('OK')	text/css	etag:%2220a9ce516eaea76da29a23adc43e8998%22	https://use.fontawesome.com/releases/v5.2.0/css/all.css	C:/Users/%d0%94%d0%b5%d0%bd%d0%b8%d1%81/Desktop/Web/Borisenkov/use.fontawesome.com/releases/v5.2.0/css/all.css	(from http://andriban.pw/)
+12:03:40	8043176/8043176	---M--	200	added ('OK')	audio/mpeg	etag:%225b60d175-7abaa8%22	http://andriban.pw/music.mp3	C:/Users/%d0%94%d0%b5%d0%bd%d0%b8%d1%81/Desktop/Web/Borisenkov/andriban.pw/music.mp3	(from http://andriban.pw/)
